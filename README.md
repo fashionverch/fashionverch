@@ -48,18 +48,16 @@
 
 ### 
 
-<p align="left">
-  ![GitHub stars](https://img.shields.io/github/stars/davidmeadows?style=flat&logo=github&logoColor=white)  
-  ![GitHub followers](https://img.shields.io/github/followers/davidmeadows?style=flat&logo=github&logoColor=white)  
-  ![Solana Developer](https://img.shields.io/badge/Solana_Developer-Active-0e76a8?style=flat&logo=solana&logoColor=white)  
-  ![Ethereum Developer](https://img.shields.io/badge/Ethereum_Developer-Active-3c3c3c?style=flat&logo=ethereum&logoColor=white)  
-  ![Web3 Enthusiast](https://img.shields.io/badge/Web3_Enthusiast-Yes-4c8bf5?style=flat&logo=ethereum&logoColor=white)  
-  ![DeFi Explorer](https://img.shields.io/badge/DeFi_Explorer-Yes-ff9900?style=flat&logo=ethereum&logoColor=white)  
-  ![NFT Collector](https://img.shields.io/badge/NFT_Collector-Yes-ff6347?style=flat&logo=ethereum&logoColor=white)  
-  ![Hackathon Participant](https://img.shields.io/badge/Hackathon_Participant-Yes-32cd32?style=flat&logo=github&logoColor=white)  
-  ![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-Yes-0073e6?style=flat&logo=github&logoColor=white)  
-  ![Blockchain Educator](https://img.shields.io/badge/Blockchain_Educator-Yes-ff4500?style=flat&logo=github&logoColor=white)
-</p>
+![GitHub stars](https://img.shields.io/github/stars/davidmeadows?style=flat&logo=github&logoColor=white)  
+![GitHub followers](https://img.shields.io/github/followers/davidmeadows?style=flat&logo=github&logoColor=white)  
+![Solana Developer](https://img.shields.io/badge/Solana_Developer-Active-0e76a8?style=flat&logo=solana&logoColor=white)  
+![Ethereum Developer](https://img.shields.io/badge/Ethereum_Developer-Active-3c3c3c?style=flat&logo=ethereum&logoColor=white)  
+![Web3 Enthusiast](https://img.shields.io/badge/Web3_Enthusiast-Yes-4c8bf5?style=flat&logo=ethereum&logoColor=white)  
+![DeFi Explorer](https://img.shields.io/badge/DeFi_Explorer-Yes-ff9900?style=flat&logo=ethereum&logoColor=white)  
+![NFT Collector](https://img.shields.io/badge/NFT_Collector-Yes-ff6347?style=flat&logo=ethereum&logoColor=white)  
+![Hackathon Participant](https://img.shields.io/badge/Hackathon_Participant-Yes-32cd32?style=flat&logo=github&logoColor=white)  
+![Open Source Contributor](https://img.shields.io/badge/Open_Source_Contributor-Yes-0073e6?style=flat&logo=github&logoColor=white)  
+![Blockchain Educator](https://img.shields.io/badge/Blockchain_Educator-Yes-ff4500?style=flat&logo=github&logoColor=white)
 
 ### 
 
